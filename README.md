@@ -1,3 +1,12 @@
+Easy Poker is a free React app that can be used by anyone willing to create similiar projects or simply use it as a whole.
+If someone really wanted to use it, you don't have to message me about it. Just use it.
+
+The game is mostly a single page application (play.jsx). However, it also has a small main menu (home.jsx) and instructions
+panel (howToPlay.jsx). All of the functions are defined in play.jsx, but some of them (such as pattern algorithms) are
+encapsulated in ./common/computes, and calculated with compute.jsx.
+
+Enjoy!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
